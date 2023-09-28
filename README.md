@@ -18,7 +18,7 @@ This repository contains a Processing code that generates quotes from Antoine de
 - Processing 3 or higher
 
 ## License
-This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) License. For more details, see the [LICENSE.md](LICENSE.md) file.
+This project is dedicated to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) License.
 
 ## Author
 Mohamed Louanjli
