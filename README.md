@@ -1,10 +1,10 @@
-# St Exupery Quotes Generator
+# Quotes Generator
 
 ## Description
-This repository contains a Processing code that generates quotes from Antoine de Saint-Exupéry's "Terre des Hommes" (Wind, Sand and Stars). The code displays the quotes with a typing effect on the canvas.
+This repository contains a Processing code that generates quotes from a list. The code displays the quotes with a typing effect on the canvas.
 
 ## Features
-- Generates quotes from "Terre des Hommes"
+- Generates quotes from a list
 - Typing effect for better readability
 - Randomly selects quotes to display
 
